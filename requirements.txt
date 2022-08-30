@@ -1,5 +1,6 @@
 pycrostates
 pandas
 pymatreader
+pyqt5
 mne-qt-browser
 
